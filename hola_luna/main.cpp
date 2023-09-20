@@ -4,12 +4,12 @@
 int main() {
     //===========SUELO========================================
     //Creacion del mundo y de la gravedad
-    b2Vec2 gravity(0.0f, -9.81f);
+    b2Vec2 gravity(0.0f, -1.62f);
     b2World world(gravity);
 
     //Creacion de las caracteristicas del cuerpo del suelo
     b2BodyDef groundBodyDef;
-    groundBodyDef.position.Set(0.0f, -1.62f);
+    groundBodyDef.position.Set(0.0f, -10.0f);
 
     //Creamos el cuerpo del suelo
     b2Body*groundBody = world.CreateBody(&groundBodyDef);
@@ -33,7 +33,7 @@ int main() {
     b2FixtureDef fixtureDef;
     fixtureDef.shape = &dynamicBox;
     fixtureDef.density = 1.0f;
-    fixtureDef.friction = 0.3f;
+    fixtureDef.friction = 0.03f;
 
     body ->CreateFixture(&fixtureDef);
 
