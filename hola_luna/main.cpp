@@ -35,7 +35,7 @@ int main() {
     b2FixtureDef fixtureDef; //definicion del fixture, el cual ya cuenta con propiedades
     fixtureDef.shape = &dynamicBox; //forma de caja
     fixtureDef.density = 1.0f; //densidad
-    fixtureDef.friction = 0.03f; //friccion menor porque está en la luna
+    fixtureDef.friction = 0.0f; //friccion menor porque está en la luna
 
     body ->CreateFixture(&fixtureDef);
 
