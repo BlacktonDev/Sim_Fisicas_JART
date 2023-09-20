@@ -1,0 +1,10 @@
+^C:\USERS\BLACK\DESKTOP\UNIAT\SIM_FISICAS_JART\HOLA_MUNDO\CMAKELISTS.TXT
+setlocal
+C:\Users\black\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -SC:/Users/black/Desktop/UNIAT/Sim_Fisicas_JART/hola_mundo -BC:/Users/black/Desktop/UNIAT/Sim_Fisicas_JART/hola_mundo/cmake-build-debug --check-stamp-file C:/Users/black/Desktop/UNIAT/Sim_Fisicas_JART/hola_mundo/cmake-build-debug/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

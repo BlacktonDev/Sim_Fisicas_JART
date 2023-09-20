@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\black\Desktop\UNIAT\Sim_Fisicas_JART\hola_mundo\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\black\Desktop\UNIAT\Sim_Fisicas_JART\hola_mundo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{32F80C2A-34CD-39E9-AE7D-2449C692A04E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
