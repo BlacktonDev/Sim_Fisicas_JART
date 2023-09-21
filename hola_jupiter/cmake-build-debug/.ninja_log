@@ -1,0 +1,19 @@
+# ninja log v5
+0	730	7170290558074155	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+731	1442	7170290561135666	hola_jupiter.exe	15420f52e2c6839a
+1	736	7170296500117331	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+737	1290	7170296501420809	hola_jupiter.exe	15420f52e2c6839a
+1	774	7170300893173221	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+775	1329	7170300894427046	hola_jupiter.exe	15420f52e2c6839a
+0	666	7170302996037546	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+667	1225	7170302997204457	hola_jupiter.exe	15420f52e2c6839a
+1	658	7170303594027887	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+659	1425	7170303595255886	hola_jupiter.exe	15420f52e2c6839a
+1	671	7170303846645974	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+672	1295	7170303847937329	hola_jupiter.exe	15420f52e2c6839a
+1	757	7170305600082079	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+758	1349	7170305601440072	hola_jupiter.exe	15420f52e2c6839a
+1	718	7170308256939850	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+719	1272	7170308258127403	hola_jupiter.exe	15420f52e2c6839a
+1	493	7170308406300138	CMakeFiles/hola_jupiter.dir/main.cpp.obj	8b8c1b86a1e7434b
+494	1007	7170308407448306	hola_jupiter.exe	15420f52e2c6839a
