@@ -1,3 +1,0 @@
-C:/Users/black/Desktop/UNIAT/Sim_Fisicas_JART/hola_disparo/cmake-build-debug/CMakeFiles/hola_disparo.dir
-C:/Users/black/Desktop/UNIAT/Sim_Fisicas_JART/hola_disparo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/black/Desktop/UNIAT/Sim_Fisicas_JART/hola_disparo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
