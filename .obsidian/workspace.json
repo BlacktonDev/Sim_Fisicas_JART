@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hola_jupiter/README.md",
+                "file": "hola_bala/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hola_jupiter/README.md",
+                "file": "hola_bala/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hola_jupiter/README.md",
+                "file": "hola_bala/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hola_jupiter/README.md"
+                "file": "hola_bala/README.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "f05b9f69c3d4760a",
   "lastOpenFiles": [
+    "hola_luna/README.md",
     "hola_bala/README.md",
     "hola_jupiter/README.md",
-    "hola_luna/README.md",
-    "README.md",
-    "hola_mundo/README.md"
+    "hola_mundo/README.md",
+    "README.md"
   ]
 }
