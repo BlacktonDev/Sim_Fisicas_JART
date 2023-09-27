@@ -3,7 +3,7 @@
 
 int main() {
 
-    //BodyDef: Carburo de tuxteno - unidad en 15600 kg*m^3 - listo
+    //BodyDef: Carburo de tungsteno - unidad en 15600 kg*m^3 - listo
     //Altura: 15m - Listo
     //Gravedad: Jupiter - 24.79 m/s^2 - listo
 
@@ -38,7 +38,7 @@ int main() {
 
     b2FixtureDef fixtureDef; //definicion del fixture, el cual ya cuenta con propiedades
     fixtureDef.shape = &dynamicBox; //forma de caja
-    fixtureDef.density = 15600.0f; //densidad de
+    fixtureDef.density = 15600.0f; //densidad del carburo de tungsteno
     fixtureDef.friction = 0.9f; //friccion mayor porque está en jupiter, se usa valor arbitrario como en hola_luna
 
     body ->CreateFixture(&fixtureDef);
