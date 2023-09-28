@@ -1,15 +1,15 @@
 # Hola Júpiter
 
 ## Código 
-Los cambios que hola_jupiter tiene sobre el código de `hola_mundo` y `hola_luna` son los siguientes:
+Los cambios que `hola_jupiter` tiene sobre el código de `hola_mundo` y `hola_luna` son los siguientes:
 - Gravedad equivalente a la de Jupiter `-24.79 m/s^2^ `
-- Fricción aumentada por la atmosfera cubierta de gases de Júpiter  `0.0f`
+- Fricción aumentada por la atmosfera cubierta de gases de Júpiter  `0.9f`
 - Altura de la nueva caja: `15m`
 - Material de la caja: Carburo de Tungsteno = `15600 km*m^3^`
 
 ### Gravedad
 ```c++
-b2Vec2 gravity(0.0f, -1.62f);
+b2Vec2 gravity(0.0f, -24.79f);
 ```
 ### Fricción 
 ```cpp

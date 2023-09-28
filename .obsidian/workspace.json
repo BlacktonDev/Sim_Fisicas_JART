@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "hola_bala/README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,9 +148,9 @@
   },
   "active": "f05b9f69c3d4760a",
   "lastOpenFiles": [
-    "hola_luna/README.md",
-    "hola_bala/README.md",
     "hola_jupiter/README.md",
+    "hola_bala/README.md",
+    "hola_luna/README.md",
     "hola_mundo/README.md",
     "README.md"
   ]
