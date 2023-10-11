@@ -1,0 +1,3 @@
+C:/Users/black/Documents/UNIAT/Sim_Fisicas_JART/hola_poligonos/cmake-build-debug/CMakeFiles/hola_poligonos.dir
+C:/Users/black/Documents/UNIAT/Sim_Fisicas_JART/hola_poligonos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/black/Documents/UNIAT/Sim_Fisicas_JART/hola_poligonos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
