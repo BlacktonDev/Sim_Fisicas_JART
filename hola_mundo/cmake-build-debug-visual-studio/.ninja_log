@@ -1,3 +1,5 @@
 # ninja log v5
 0	590	7169396804772363	CMakeFiles/hola_mundo.dir/main.cpp.obj	93bd521351c01db3
 591	1294	7169396807732692	hola_mundo.exe	5fb87e170d5f6351
+0	624	7186913417939167	CMakeFiles/hola_mundo.dir/main.cpp.obj	8c4c411e6bdb89a2
+624	2493	7186913420759367	hola_mundo.exe	f14e20e9c118d27

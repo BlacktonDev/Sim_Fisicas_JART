@@ -1,0 +1,12 @@
+// Crear un repositorio
+git init
+git add cualquier archivo
+git commit -m "first commit"
+git branch -M main
+git remote add origin "Su link del repositorio"
+git push -u origin main
+ 
+//Añadir un archivo al repositorio
+git add "archivo"
+git commit -m "Mensaje del commit"
+git push

@@ -21,27 +21,131 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7ac778f-2901-4874-be6f-3c9e83ff2def" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-e42c90f58f9827c8bc7e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-f05723a55714d382e705.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cfbe910ee40a53eef707.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-27T19-06-01-0059.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-f9380816d9db0ef94961.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hola_bala.dir/embed.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hola_bala.dir/intermediate.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hola_bala.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hola_bala.dir/manifest.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hola_bala.dir/manifest.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/hola_bala.dir/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/hola_bala.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/hola_bala.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/hola_bala.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/hola_bala.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/hola_bala.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/hola_bala.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hola_jupiter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.cmake/api/v1/reply/cache-v2-db250a32a2cb3fcd8fc8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-79134babc451b77c6495.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-224e3962eae5b07507b7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-21T19-49-00-0966.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-f9380816d9db0ef94961.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/ShowIncludes/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/ShowIncludes/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/hola_jupiter.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/hola_jupiter.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/hola_jupiter.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/hola_jupiter.dir/manifest.rc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/hola_jupiter.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/hola_jupiter.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/hola_jupiter.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/hola_jupiter.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/hola_jupiter.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/hola_jupiter.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/hola_jupiter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_jupiter/cmake-build-debug/hola_jupiter.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hola_luna/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.cmake/api/v1/reply/cache-v2-77da209600de7e2c4def.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.cmake/api/v1/reply/cmakeFiles-v1-bed4dcd9b7f64ba4991a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.cmake/api/v1/reply/codemodel-v2-4511533502075066e8be.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.cmake/api/v1/reply/index-2023-09-20T19-51-26-0543.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.cmake/api/v1/reply/toolchains-v1-f9380816d9db0ef94961.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/ShowIncludes/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/ShowIncludes/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/clion-Debug-Visual Studio-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/clion-Debug-Visual Studio-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/hola_luna.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/hola_luna.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/hola_luna.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/hola_luna.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/hola_luna.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/hola_luna.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hola_mundo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tema_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tema_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/hola_luna.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/hola_luna.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/hola_luna.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/hola_luna.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/hola_luna.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_luna/cmake-build-debug-visual-studio/hola_luna.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.cmake/api/v1/reply/cache-v2-9495b80f7325d4122d89.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.cmake/api/v1/reply/cmakeFiles-v1-bafd34227bbe8b6a93db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.cmake/api/v1/reply/codemodel-v2-5c332fe5d66470545baf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.cmake/api/v1/reply/index-2023-09-20T19-01-16-0028.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.cmake/api/v1/reply/toolchains-v1-f9380816d9db0ef94961.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/ShowIncludes/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/ShowIncludes/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/clion-Debug-Visual Studio-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/clion-Debug-Visual Studio-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/hola_mundo.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/hola_mundo.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/hola_mundo.dir/manifest.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/hola_mundo.dir/manifest.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/hola_mundo.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/hola_mundo.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/hola_mundo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/hola_mundo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/hola_mundo.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/hola_mundo.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/hola_mundo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../hola_mundo/cmake-build-debug-visual-studio/hola_mundo.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +185,8 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/black/Documents/UNIAT/Sim_Fisicas_JART/tema_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +196,11 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="hola_bala" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="hola_bala" TARGET_NAME="hola_bala" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="hola_bala" RUN_TARGET_NAME="hola_bala">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -106,6 +217,11 @@
       <updated>1695841502924</updated>
       <workItem from="1695841508437" duration="86000" />
       <workItem from="1695846447226" duration="1242000" />
+      <workItem from="1695931627132" duration="282000" />
+      <workItem from="1695932275387" duration="18000" />
+      <workItem from="1696587926782" duration="27000" />
+      <workItem from="1696645347310" duration="7000" />
+      <workItem from="1696988763220" duration="31000" />
     </task>
     <servers />
   </component>

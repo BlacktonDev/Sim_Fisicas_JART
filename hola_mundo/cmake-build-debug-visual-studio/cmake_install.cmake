@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/black/Desktop/UNIAT/Sim_Fisicas_JART/hola_mundo
+# Install script for directory: C:/Users/black/Documents/UNIAT/Sim_Fisicas_JART/hola_mundo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/black/Desktop/UNIAT/Sim_Fisicas_JART/hola_mundo/cmake-build-debug-visual-studio/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/black/Documents/UNIAT/Sim_Fisicas_JART/hola_mundo/cmake-build-debug-visual-studio/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
