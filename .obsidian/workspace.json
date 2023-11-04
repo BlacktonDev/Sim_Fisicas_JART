@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hola_bala/README.md",
-                "mode": "preview",
+                "file": "hola_mundo/README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hola_bala/README.md",
+                "file": "hola_mundo/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hola_bala/README.md",
+                "file": "hola_mundo/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hola_bala/README.md"
+                "file": "hola_mundo/README.md"
               }
             }
           }
@@ -148,12 +148,18 @@
   },
   "active": "f05b9f69c3d4760a",
   "lastOpenFiles": [
+    "Investigaciones/Investigaciones",
+    "Investigaciones",
+    "Nueva carpeta",
+    "hola_poligonos/README.md",
+    "README.md",
+    "hola_bala/README.md",
+    "hola_poligonos/geogebra-export.ggb",
+    "hola_poligonos/Sin confirmar 641685.crdownload",
     "hola_poligonos/main.cpp~",
     "hola_poligonos/cmake-build-debug/Testing/Temporary/LastTest.log.tmp",
     "hola_jupiter/README.md",
-    "hola_bala/README.md",
     "hola_luna/README.md",
-    "hola_mundo/README.md",
-    "README.md"
+    "hola_mundo/README.md"
   ]
 }
