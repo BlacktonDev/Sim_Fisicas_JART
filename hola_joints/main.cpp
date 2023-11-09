@@ -86,6 +86,7 @@ int main()
     Cube cube8(world, 600, 200, true);
 
 
+
     //Distance Joint ===================================================================================================
     b2DistanceJointDef distanceJoint;
     distanceJoint.Initialize(cube.getBody(), cube2.getBody(), cube.getBody()->GetWorldCenter(),cube2.getBody()->GetWorldCenter());
