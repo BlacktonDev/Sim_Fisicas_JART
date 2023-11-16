@@ -252,7 +252,7 @@ int main()
 
     //Revolute Joint ===================================================================================================
     b2RevoluteJointDef revoluteJoint;
-    revoluteJoint.Initialize(cube3.getBody(), cube4.getBody(), cube4.getBody()->GetWorldCenter());
+    revoluteJoint.Initialize(cube3.getBody(), cube4.getBody(), cube3.getBody()->GetWorldCenter());
     revoluteJoint.maxMotorTorque = 100.0f;
     revoluteJoint.motorSpeed = 0.2f;
     revoluteJoint.enableMotor = true;
